@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hvmble and ivst remonstrance of the knights, citizens and burgesses in Parliament assembled in Jreland</title>
+            <author>Ireland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09294</idno>
+            <idno type="STC">Wing I414AA</idno>
+            <idno type="STC">ESTC R188282</idno>
+            <idno type="EEBO-CITATION">62369327</idno>
+            <idno type="OCLC">ocm 62369327</idno>
+            <idno type="VID">187955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187955)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2850:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hvmble and ivst remonstrance of the knights, citizens and burgesses in Parliament assembled in Jreland</title>
+                  <author>Ireland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hugh Perry,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>At head of text: To the Right Honovrable, the Lord Deputie [Robert, Earl of Leicester].</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dudley, Robert, --  Sir, 1574-1649.</term>
+               <term>Ireland. --  Parliament.</term>
+               <term>Ireland --  History --  1625-1649 --  Sources.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187955:1"/>
+            <p>
+               <pb facs="tcp:187955:2"/>
+               <pb facs="tcp:187955:2"/>
+THE HVMBLE AND IVST REMONSTRANCE.</p>
+            <p>OF The Knights, Citizens, and Burgeſſes, in Parliament aſſembled in JRELAND.</p>
+            <p>Printed for <hi>Hugh Perry,</hi> in the Yeare 1641.</p>
+            <pb facs="tcp:187955:3" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:187955:3" rendition="simple:additions"/>
+            <head>TO THE RIGHT HONORABLE, The Lord Deputie.</head>
+            <p>SHewing that in all Ages paſt, ſince the happy ſubjection of this King<g ref="char:EOLhyphen"/>dome, to the imperiall Crowne of <hi>England;</hi> it was and is a principall ſtu<g ref="char:EOLhyphen"/>dy, and Princely care of his Majeſtie, and his moſt Noble Progenitors, Kings and Queenes of <hi>England</hi> and <hi>Ireland,</hi> to the vaſt expence of Treaſure and blood, that their loyall and dutifull people of this Land of <hi>Ireland,</hi> being now for the moſt part derived from the <hi>Brittiſh Anceſtor,</hi> ſhould be governed according to the municipiall and fundamentall Lawes of <hi>England,</hi> that the Statute of <hi>Magna Charta,</hi> or the great <hi>Charter</hi> for the liberties of <hi>England,</hi> and other laud<g ref="char:EOLhyphen"/>able Lawes and ſtatutes, were in ſeverall Parliaments, here enacted and declared, that by the meanes thereof, and of the moſt prudent and benigne government
+<pb n="2" facs="tcp:187955:4"/>
+of his Majeſtie, and his Royall Progeni<g ref="char:EOLhyphen"/>tors, this kingdome was (untill of late) in its growth to a flouriſhing eſtate, where<g ref="char:EOLhyphen"/>by the ſaid people were hearetofore ena<g ref="char:EOLhyphen"/>bled to anſwer their humble and naturall deſires, to comply with his Majeſties Royall &amp; Princely occaſions, by the free gift of 150000. <hi>l. ſter.</hi> and like wiſe by ano<g ref="char:EOLhyphen"/>ther gift of 120000. <hi>l. ſter.</hi> more during the governement of the <hi>Lord Viſcount Faulk-land,</hi> &amp; after by the gift of 40000. <hi>l.</hi> &amp; their free &amp; cheareful gift of 6. <hi>entire ſubſidies,</hi> in the 10. yeare of his Majeſties Reign, which to comply with his Maje<g ref="char:EOLhyphen"/>ſties then occaſions ſignified to the then houſe of Co<g ref="char:cmbAbbrStroke">̄</g>mons, they did allow ſhould amount in the collections unto 250000. <hi>l.</hi> although as they confidently beleeve, if the ſaid ſubſidies had not beene levied in a moderate parliamentary way, they would not have amounted to much more then halfe the ſaid ſum, beſides the foure entire ſubſidies, granted in this preſent Parliament. So it is, may it pleaſe your Lordſhip, that by the occaſion of the en<g ref="char:EOLhyphen"/>ſuing and other grievances and innovati<g ref="char:EOLhyphen"/>ons, though to his Majeſties no conſide<g ref="char:EOLhyphen"/>rable profit, this kingdome is reduced to that extreme &amp; univerſall poverty, that the ſame is now leſſe able to pay a Subſi<g ref="char:EOLhyphen"/>dies, then it was heretofore to ſatisfie all
+<pb n="3" facs="tcp:187955:4"/>
+the before recited great payments, &amp; his Majeſties moſt faithfull people of the ſame, doe conceive great feares that the grievances and the conſequences thereof may hereafter be drawn into precedents to be perpetuated upon their poſterity, which in their great hopes and ſtrong be<g ref="char:EOLhyphen"/>liefe, they are perſwaded is contrary to his Majeſties Royall and Princely inten<g ref="char:EOLhyphen"/>tion towards his ſaid people, ſome of which ſaid grievances, are as followeth.</p>
+            <p n="1">I. Firſt, the generall and apparent decay of Trades, occaſioned by the new &amp; ille<g ref="char:EOLhyphen"/>gall rayſing of the booke of Rates and Impoſitions; as xij. d. a piece, cuſtome for Hides bought for 3. 4. or 5. s. and many other heavie Impoſitions upon native &amp; other commodities exported and impor<g ref="char:EOLhyphen"/>ted, by reaſon thereof &amp; of the extreame uſage, and ſenſures, Marchants are begg<g ref="char:EOLhyphen"/>red, and both diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nable, and diſcouraged to trade; and ſome of the honorable per<g ref="char:EOLhyphen"/>ſons who gaine therby are often Iudges and parties, and that in Concluſion his Majeſties profit thereby is not conſide<g ref="char:EOLhyphen"/>rably advanced.</p>
+            <p n="2">II. Secondly, the arbitrary deciſion of all civill cauſes and controverſies, by paper petitions before the Lord <hi>Lieutenant</hi> and
+<pb n="4" facs="tcp:187955:5"/>
+               <hi>Lord Deputy,</hi> &amp; infinite other judicators upon references from them derived in the nature of all actions, determinable at the common law, not limited unto cer<g ref="char:EOLhyphen"/>taine times, ſeaſons, cauſes, and things, whatſoever, and the conſequence of ſuch proceedings, by receiving immoderate &amp; unlawful fees by <hi>Secretaries, Clerkes, Pur<g ref="char:EOLhyphen"/>ſivants, Serjeants</hi> at Armes, &amp; otherwiſe, by which kind of proceedings, his Maje<g ref="char:EOLhyphen"/>ſty loſeth a conſiderable part of his Re<g ref="char:EOLhyphen"/>venue, upon originall writs, &amp; otherwiſe, and the ſubject loſeth the benefit of his writ of errour, Bill of reverſall, vouchers, and other legall and juſt advantages, and the ordinarie courſe &amp; Courts of juſtice declined</p>
+            <p n="3">III. Thirdly, the proceedings in civill cau<g ref="char:EOLhyphen"/>ſes at the Councell boord, contrary to the law and great <hi>Charter,</hi> and not limit<g ref="char:EOLhyphen"/>ted to any certaine time, or ſeaſon.</p>
+            <p n="4">IV. Fourthly, that the Subject is in all the materiall parts therof denied the be<g ref="char:EOLhyphen"/>nefit of the princely graces, and more e<g ref="char:EOLhyphen"/>ſpecially of the ſtatute of Limitations, of the 21. <hi>Ian.</hi> granted by his Majeſtie in the 4. yeare of this Reigne, upon great advice of the Counſell of <hi>England and Ireland,</hi> and for great conſideration; &amp; then pub<g ref="char:EOLhyphen"/>liſhed
+<pb n="5" facs="tcp:187955:5"/>
+in all the Courts of <hi>Dublin,</hi> and in all the Courts of this Kingdome in open Aſſizes, whereby all perſons doe take notice, that contrary to his Maje<g ref="char:EOLhyphen"/>ſties pious intention, his Subjects of this Land have not enjoyed the benefit of his Majeſties Princely promiſe therby made.</p>
+            <p n="5">V. Fiftly, the extrajudiciall avoyding of Letters Patents of eſtates of a very great part of his Majeſties ſubjects under the great Seale (the publique faith of the Kingdome) by private opinions delive<g ref="char:EOLhyphen"/>red at Counſell Board, without legall E<g ref="char:EOLhyphen"/>victions of their eſtates, contrary to the Law and without precedent or example of any former age.</p>
+            <p n="6">VI. Sixtly, the Proclamation for the ſole exemption and uttering of <hi>Tobacco,</hi> which is bought at very low Rates, and uttered at high and exceſſive rates, by meanes whereof thouſands of Families within this Kingdome and of his Majeſties ſub<g ref="char:EOLhyphen"/>jects in ſeverall Iſlands, &amp; other parts of the <hi>Weſt Indies</hi> (as your Petitioners are informed) are deſtroyed, and the moſt part of the Coyne of this Kingdome is ingroſſed into particular hands: Inſo<g ref="char:EOLhyphen"/>much that your Petitioners doe conceive
+<pb n="6" facs="tcp:187955:6"/>
+that the profit ariſing &amp; ingroſſed ther<g ref="char:EOLhyphen"/>by, doth ſurmount his Majeſties reve<g ref="char:EOLhyphen"/>nues Certaine and caſuall within this Kingdome, and yet his Maſtjeſtie recei<g ref="char:EOLhyphen"/>veth but very little profit by the ſame.</p>
+            <p n="7">VII. Seventhly, the unuſuall and unlawfull increaſing of <hi>Monopolies</hi> to the advantage of few, to the diſprofit of his Majeſtie and the impoveriſhment of his people.</p>
+            <p n="8">VIII. Eightly, the extreame and cruell uſage of certaine late Commiſſioners and o<g ref="char:EOLhyphen"/>ther, towards the <hi>Britiſh</hi> Farmers and Inhabitants of the City and County of <hi>London-derry,</hi> by meanes whereof the worthy plantation of that Country is al<g ref="char:EOLhyphen"/>moſt deſtroyed, and the Inhabitants are reduced to great poverty, and many of them forced to forſake the Country, the ſame being the firſt and moſt uſefull Plantation in the large Province of <hi>Vl<g ref="char:EOLhyphen"/>ſter,</hi> to the great weakening of the King<g ref="char:EOLhyphen"/>dome, in this time of danger, the ſaid Plantation being the principall ſtrength of thoſe parts.</p>
+            <p n="9">IX. Ninthly, the late erection of the Court of high Commiſſion for cauſes Eccleſi<g ref="char:EOLhyphen"/>aſticall in theſe neceſſitous times, the
+<pb n="7" facs="tcp:187955:6"/>
+proceedings of the ſaid Court in many cauſes without legall warrant, and yet ſo ſupported as prohibitions have not been obtained, though legally ſought for, and the exceſſive fees exacted by the miniſters thereof, and the incroaching of the ſame upon the juriſdiction of other Eccleſia<g ref="char:EOLhyphen"/>ſticall Courts of this Kingdome.</p>
+            <p n="10">X. Tenthly, the exorbitant and barbarous Fees and pretended Cuſtomes exacted by the Clergie againſt the Law, ſome of which have been formerly repreſented to your Lordſhip.</p>
+            <p n="11">XI. Eleventhly, the Petitioners doe moſt heartily bemone that his Majeſties ſer<g ref="char:EOLhyphen"/>vices and profits are much more impai<g ref="char:EOLhyphen"/>red then advanced by the grievances a<g ref="char:EOLhyphen"/>foreſaid. And the Subſidies granted in the laſt Parliament having much encrea<g ref="char:EOLhyphen"/>ſed his Majeſties Revenue by the buying in of Grants and otherwiſe, and that all his Majeſties debts then due in this King<g ref="char:EOLhyphen"/>dome were ſatisfied out of the ſaid Sub<g ref="char:EOLhyphen"/>ſidies, and yet his Majeſtie is of late (as your Petitioners have been informed) in the houſe of Commons become indebted in this Kingdome in great ſummes, and they doe therefore humbly beſeech that
+<pb n="8" facs="tcp:187955:7"/>
+an exact account may be ſent to his Ma<g ref="char:EOLhyphen"/>jeſtie, how and in what manner his trea<g ref="char:EOLhyphen"/>ſure iſſued.</p>
+            <p n="12">XII. Twelfthly, the Petitioners doe hum<g ref="char:EOLhyphen"/>bly conceive great and juſt feares at a Proclamation publiſhed in this King<g ref="char:EOLhyphen"/>dome in <hi>Anno Dom.</hi> 1635. prohibiting men of quality or eſtate for to depart this Kingdome into <hi>England,</hi> without the Lord Deputies Licenſe, whereby the Subjects of this Kingdome are hindered and interrupted from free acceſſe and ad<g ref="char:EOLhyphen"/>dreſſe to his ſacred Majeſtie and Privie Counſell of <hi>England,</hi> to declare their juſt grievances, or to obtaine remedy for them, in ſuch ſort as their Anceſtors have done in all ages, ſince the Reigne of King <hi>Henry</hi> the ſecond, and great fees exacted for, every of the ſaid Licenſes.</p>
+            <p n="13">XIII. Thirteenthly, that of late his Majeſties late Atturney generall hath exhibited in<g ref="char:EOLhyphen"/>formations againſt many ancient Bur<g ref="char:EOLhyphen"/>roughs of this Kingdome into his Maje<g ref="char:EOLhyphen"/>ſties Court of Exchequer, to ſhew by what warrant the ſaid Burroughes, who heretofore ſent Burgeſſes to the Parlia<g ref="char:EOLhyphen"/>ment, ſhould ſend the ſaid Burgeſſes to the Parliament. And thereupon for want
+<pb n="9" facs="tcp:187955:7"/>
+of an anſwer, the ſaid Priviledge of ſen<g ref="char:EOLhyphen"/>ding Burgeſſes was ſeized by the ſaid Court, which proceedings were altoge<g ref="char:EOLhyphen"/>ther <hi>Coram non Judice,</hi> and contrary to the Lawes and Priviledges of the houſe of Parliament (and if way ſhould be given thereunto) might tend to the ſubverſion of Parliaments, and by conſequence to the ruine &amp; deſtruction of the Common-wealth, and that the houſe of Commons hath hitherto in this preſent Parliament bin deprived of the advice and Counſell of many profitable and good members by meanes thereof.</p>
+            <p n="14">XIV. Fourteenthly, that by the powerful<g ref="char:EOLhyphen"/>neſſe of ſome Miniſters of State in this Kingdome, the Parliament in its mem<g ref="char:EOLhyphen"/>bers and actions hath not his naturall freedome.</p>
+            <p n="15">XV. Fifteenthly, that the fees taken in all the Courts of Juſtice in this Kingdome, both Eccleſiaſticall and Civill, and by o<g ref="char:EOLhyphen"/>ther inferior Officers and Miniſters, are ſo immoderately high, that it is an unſpea<g ref="char:EOLhyphen"/>keable burthen to all his Majeſties Sub<g ref="char:EOLhyphen"/>jects of this, who are not able to ſubſiſt, except the ſame be ſpeedily remedied &amp; reduced to ſuch a moderation as may ſtand with the condition of this Realme.</p>
+            <p>
+               <pb n="10" facs="tcp:187955:8"/>
+And laſtly, That the Gentry, Mer<g ref="char:EOLhyphen"/>chants, and other his Majeſties ſubjects of this Kingdome, are of late by the grie<g ref="char:EOLhyphen"/>vances and preſſures aforeſaid and other the like, very neere to Ruine and deſtru<g ref="char:EOLhyphen"/>ction. And Farmers of Cuſtomes, Cu<g ref="char:EOLhyphen"/>ſtomers, Waiters, Searchers, Clearkes of unwarrantable proceedings, Purſe<g ref="char:EOLhyphen"/>vants, and Gaolers, and ſundry others ve<g ref="char:EOLhyphen"/>ry much inriched, whereby and by the ſlow redreſſe of the Petitioners grievan<g ref="char:EOLhyphen"/>ces, his Majeſties moſt faithfull and du<g ref="char:EOLhyphen"/>tifull people of this Kingdome, doe con<g ref="char:EOLhyphen"/>ceive great feares that their readineſſe approved upon all occaſions, hath not beene of late rightly repreſented to his Majeſty.</p>
+            <p>For Remedy whereof, the ſaid Peti<g ref="char:EOLhyphen"/>tioners doe humbly and of Right be<g ref="char:EOLhyphen"/>ſeech your Lordſhip, that the grievan<g ref="char:EOLhyphen"/>ces and preſſures may be ſpeedily redreſ<g ref="char:EOLhyphen"/>ſed. And if your Lordſhip ſhall not thinke fit to afford us preſent reliefe therein, that your Lordſhip may admit a ſelect Committee of this Houſe of perſons unintereſſed in the benefit ari<g ref="char:EOLhyphen"/>ſing, the aforeſaid grievances to be li<g ref="char:EOLhyphen"/>cenſed by your Lordſhip, to repaire to
+<pb n="11" facs="tcp:187955:8"/>
+his ſacred Majeſty in <hi>England</hi> for to purſue the ſame, and to obtaine fitting Remedies for their aforeſaid and other juſt grievances and oppreſſions, and upon all juſt and honorable occaſions, they will without reſpect of particular inte<g ref="char:EOLhyphen"/>reſt or profit to be raiſed thereby, moſt humbly and readily in Parliament, ex<g ref="char:EOLhyphen"/>tend their utmoſt endeavours to ſerve his Majeſty, and comply with his Royall and Princely occaſions, And ſhall pray, &amp;c.</p>
+            <closer>Copia vera.</closer>
+            <pb facs="tcp:187955:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
